@@ -4,11 +4,11 @@ document.getElementById('loadMore').addEventListener('click', function() {
     // New art items to load dynamically
     const newArtItems = [
         {
-            imgSrc: 'https://example.com/art3.jpg',
+            imgSrc: 'images/art3.jpeg',
             description: 'Art Piece 3 - Urban'
         },
         {
-            imgSrc: 'https://example.com/art4.jpg',
+            imgSrc: 'images/art4.jpg',
             description: 'Art Piece 4 - Portrait'
         }
     ];
